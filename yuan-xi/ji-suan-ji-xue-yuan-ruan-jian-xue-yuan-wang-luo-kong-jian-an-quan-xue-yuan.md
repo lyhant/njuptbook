@@ -1,3 +1,5 @@
 # 计算机学院、软件学院、网络空间安全学院
 
-[**通信工程专业培养方案-2017级.pdf**](https://scie.njupt.edu.cn/\_upload/article/files/8f/0b/6df359fa47118d16ad3dfbb5f9c5/df8b5780-cb9a-4e39-8f16-db03e292aeed.pdf)
+
+
+[2021级-软件工程.pdf](https://cs.njupt.edu.cn/\_upload/article/files/ce/45/9595bf444623aecb793fd0d4beaf/63bf3ed3-8eb2-4a70-b8e9-66b8b81355c2.pdf)
