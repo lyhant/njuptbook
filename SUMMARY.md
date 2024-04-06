@@ -10,3 +10,7 @@
   * [信息与计算科学](yuan-xi/li-xue-yuan/xin-xi-yu-ji-suan-ke-xue.md)
   * [应用统计学](yuan-xi/li-xue-yuan/ying-yong-tong-ji-xue.md)
   * [应用物理学](yuan-xi/li-xue-yuan/ying-yong-wu-li-xue.md)
+
+***
+
+* [如何参与这个项目](ru-he-can-yu-zhe-ge-xiang-mu.md)
